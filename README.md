@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MChatzakis&count_private=true&theme=tokyonight&showicons=true)]()
 
-Test
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MChatzakis&langs_count=5&theme=tokyonight)]()
 
